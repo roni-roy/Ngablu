@@ -83,7 +83,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 </div>
 
 <div class="pt-3">
-				<input class="btn btn-info" type="submit" name="submit" value="Silahkan Login Disini">
+				<input class="btn btn-primary btn-lg btn-block " type="submit" name="submit" value="Silahkan Login Disini">
 				<a href="<?php echo base_url(); ?>"></a>
 			</div>
 </body>
