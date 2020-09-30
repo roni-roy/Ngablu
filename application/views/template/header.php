@@ -1,6 +1,6 @@
 <html>
 	<head>
-		<title>CRUD MAhasiswa</title>
+		<title>Data Mahasiswa</title>
 		<link rel="stylesheet" href="<?= base_url('public/assets/css/bootstrap.min.css') ?>">
 
 	</head>
